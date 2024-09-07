@@ -4,4 +4,4 @@
 - 🤖 Working on agentic systems, RAG, and transforming un-structured data into structured with LLMs
 - 💼 Former CTO of Vincere Health (acquired) and CapitalOne AI team member
 - 💡 Leveraging technology to drive business innovation and achieve strategic goals
-- 📚 Follow my blog at [hadijaveed.com](https://www.hadijaveed.com) for insights and updates
+- 📚 Follow my blog at [hadijaveed.com](https://www.hadijaveed.me) for insights and updates
