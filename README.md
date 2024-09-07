@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **hadijaveed/hadijaveed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Hi there! 👋 I'm Hadi Javeed
-
 Former CTO of Vincere Health (acquired), now running a boutique AI studio and working on a stealth startup. I'm passionate about using tech to drive innovation and simplify build processes for real business goals.
 
 Currently excited about agentic frameworks, RAG, and helping companies solve their needs. Check out my [blog](https://www.hadijaveed.com).
