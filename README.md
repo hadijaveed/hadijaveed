@@ -1,7 +1,8 @@
 # Hi, I'm Hadi Javeed 👋
 
-- 🚀 Independent tech consultant specializing in AI integration in healthcare, working with large health systems, scale-ups, and startups
-- 🤖 Working on agentic systems, RAG, and transforming un-structured data into structured with LLMs
-- 💼 Former CTO of Vincere Health (acquired) and CapitalOne AI team member
-- 💡 Leveraging technology to drive business innovation and achieve strategic goals
-- 📚 Follow my blog at [hadijaveed.com](https://www.hadijaveed.me) for insights and updates
+- Healthcare cofounder and CTO building [RevelAI Health](https://revelaihealth.com)
+- Built [Vincere Health](https://www.vincerehealth.com) (acquired by Optum) and scaled [Prodify](https://www.yourprodify.com), an AI consulting studio, to 7 figure revenue
+- Interested in data agents and AI solving analytics needs, working on a project I plan to open source soon
+- Working on agentic systems, RAG, and transforming unstructured data into structured with LLMs
+- Former Capital One AI team member
+- Writing about AI in healthcare
